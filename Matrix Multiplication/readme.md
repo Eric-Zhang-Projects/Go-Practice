@@ -2,6 +2,8 @@ Eric Zhang
 2/3/2019
 
 Matrix Multiplication:
+
+
  ![image](https://user-images.githubusercontent.com/38845224/52182532-19bae080-27cc-11e9-9ca9-99ea19c879f5.png)
  
 Input: 
