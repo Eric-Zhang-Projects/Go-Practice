@@ -1,6 +1,3 @@
-Eric Zhang
-2/3/2019
-
 Matrix Multiplication:
 
 
