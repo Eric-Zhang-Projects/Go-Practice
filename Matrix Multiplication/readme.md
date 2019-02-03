@@ -2,6 +2,7 @@ Eric Zhang
 2/3/2019
 
 Matrix Multiplication:
+ ![image](https://user-images.githubusercontent.com/38845224/52182532-19bae080-27cc-11e9-9ca9-99ea19c879f5.png)
  
 Input: 
 For numbers in a row of a matrix, use spaces to separate each number. To make a new row, use a comma separated by spaces, and to multiply, use the asterisk character separated by spaces ( * ). After the last inputted number, use the # character to terminate the input. CURRENTLY CANNOT MULTIPLY MORE THAN 2 MATRICES AT ONCE.
